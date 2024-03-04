@@ -1,4 +1,10 @@
-.completeItem {
-    text-decoration: line-through;
-    background: green !important;
+
+
+.table ,th ,td {
+    border: 1px solid black;
+    padding: 10px 22px;
+}
+
+.td {
+    background: gray;
 }
